@@ -15,7 +15,8 @@ This project focuses on transforming raw sales data into actionable business ins
 ## 📊 Dashboard Preview
 
 <p align="center">
-  <img src="dashboard.png" alt="Blinkit Sales Dashboard" width="100%" />
+  <img width="653" height="367" alt="dashboard" src="https://github.com/user-attachments/assets/dd55a80f-ee7e-4e99-a3b1-a5fa55a266e2" />
+
 </p>
 
 ## 🎯 Key Performance Indicators

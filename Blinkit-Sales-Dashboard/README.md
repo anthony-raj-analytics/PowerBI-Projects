@@ -15,8 +15,7 @@ This project focuses on transforming raw sales data into actionable business ins
 ## 📊 Dashboard Preview
 
 <p align="center">
-  <img width="653" height="367" alt="dashboard" src="https://github.com/user-attachments/assets/dd55a80f-ee7e-4e99-a3b1-a5fa55a266e2" />
-
+  <img src="https://github.com/user-attachments/assets/dd55a80f-ee7e-4e99-a3b1-a5fa55a266e2" alt="Blinkit Power BI Dashboard" width="100%" />
 </p>
 
 ## 🎯 Key Performance Indicators
@@ -64,15 +63,15 @@ This project focuses on transforming raw sales data into actionable business ins
 
 * 🔹 Data Import and Transformation using Power Query.
 * 🔹 Data Modeling and Relationship Management.
-* 🔹 DAX Measures for KPI calculations.
+* 🔹 DAX Measures for KPI Calculations.
 * 🔹 Interactive Visualizations and Charts.
 * 🔹 Field Parameters for Dynamic Metric Selection.
-* 🔹 Slicers and Filters for interactive analysis.
+* 🔹 Slicers and Filters for Interactive Analysis.
 
 ## 📂 Project Structure
 
 ```text
-Blinkit-Sales-Analysis-PowerBI/
+Blinkit-Sales-Dashboard/
 │
 ├── 📊 Blinkit_Dashboard.pbix
 ├── 🖼️ dashboard.png
@@ -81,27 +80,4 @@ Blinkit-Sales-Analysis-PowerBI/
 
 ## 🎓 Skills Demonstrated
 
-`Power BI` `DAX` `Power Query` `Data Modeling` `Data Cleaning` `KPI Reporting` `Dashboard Development` `Business Intelligence`
-
-## 👨‍💻 About the Author
-
-**Anthony Raj I**
-🚀 Aspiring Data Analyst
-
-📊 **Technical Skills:** Excel | SQL | Power BI | Python
-
-🔗 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/anthony-raj/)
-
----
-
-<p align="center">
-  ⭐ If you find this project interesting, feel free to explore the repository!
-</p>
-
-<p align="center">
-  <b>Built with Microsoft Power BI | Turning Data into Insights 📊</b>
-</p>
-
----
-
-*This is a hands-on learning project developed with guidance from a YouTube tutorial to strengthen practical Power BI and data analytics skills.*
+`Power BI` `DAX` `Power Query` `Data Modeling` `
